@@ -1,0 +1,9 @@
+C:\Users\Christian\Desktop\Practicando\TP1_RodriguezChristian\TP1_RodriguezChristian\bin\Debug\TP1_RodriguezChristian.exe.config
+C:\Users\Christian\Desktop\Practicando\TP1_RodriguezChristian\TP1_RodriguezChristian\bin\Debug\TP1_RodriguezChristian.exe
+C:\Users\Christian\Desktop\Practicando\TP1_RodriguezChristian\TP1_RodriguezChristian\bin\Debug\TP1_RodriguezChristian.pdb
+C:\Users\Christian\Desktop\Practicando\TP1_RodriguezChristian\TP1_RodriguezChristian\obj\Debug\TP1_RodriguezChristian.csprojAssemblyReference.cache
+C:\Users\Christian\Desktop\Practicando\TP1_RodriguezChristian\TP1_RodriguezChristian\obj\Debug\TP1_RodriguezChristian.Properties.Resources.resources
+C:\Users\Christian\Desktop\Practicando\TP1_RodriguezChristian\TP1_RodriguezChristian\obj\Debug\TP1_RodriguezChristian.csproj.GenerateResource.cache
+C:\Users\Christian\Desktop\Practicando\TP1_RodriguezChristian\TP1_RodriguezChristian\obj\Debug\TP1_RodriguezChristian.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Desktop\Practicando\TP1_RodriguezChristian\TP1_RodriguezChristian\obj\Debug\TP1_RodriguezChristian.exe
+C:\Users\Christian\Desktop\Practicando\TP1_RodriguezChristian\TP1_RodriguezChristian\obj\Debug\TP1_RodriguezChristian.pdb
